@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "001whats/AppDelegate.swift"
+            timestampString = "576880354.462034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "001whats/ChatViewController.swift"
+            timestampString = "576880354.4620889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ChatViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_01whats.ChatViewController.sendbutton.getter : weak Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "001whats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isarichter/Desktop/001whats/001whats/ChatViewController.swift"
+                  timestampString = "576796647.0126441"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_01whats.ChatViewController.sendbutton.setter : weak Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "001whats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isarichter/Desktop/001whats/001whats/ChatViewController.swift"
+                  timestampString = "576796647.041639"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_01whats.ChatViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _01whats.ChatViewController"
+                  moduleName = "001whats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isarichter/Desktop/001whats/001whats/ChatViewController.swift"
+                  timestampString = "576796647.0431809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_01whats.ChatViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_01whats.ChatViewController&gt;"
+                  moduleName = "001whats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isarichter/Desktop/001whats/001whats/ChatViewController.swift"
+                  timestampString = "576796647.044616"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "145">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
